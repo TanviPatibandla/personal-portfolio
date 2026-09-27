@@ -1,0 +1,4 @@
+node_modules/
+.DS_Store
+*.tmp
+capture_portfolio_screenshots.js
